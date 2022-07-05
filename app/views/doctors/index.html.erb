@@ -1,0 +1,28 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Doctors</h1>
+<%= link_to "Add New Doctor", new_doctor_path %>
+<div id="doctors">
+<table class="table">
+<thead>
+    <tr class="table-dark">
+      <th scope="col">Name</th>
+      <th scope="col">Doctor ID</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+<% @doctors.each do |doctor| %>
+<tbody>
+  <tr>
+    <td> <%= doctor.name %> </td>
+    <td> <%= doctor.id %> </td>
+    <td> <%= link_to "Show this doctor", doctor %> </td>
+    <td> <a href= "http://localhost:3000/patients/new" >add new patient </a>  </td>
+  </tr>
+</tbody
+</table>
+  
+  <% end %>
+</div>
+

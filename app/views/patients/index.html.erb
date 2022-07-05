@@ -1,0 +1,35 @@
+<p style="color: green"><%= notice %></p>
+
+<h1>Patients</h1>
+
+<div id="patients">
+
+<table class="table">
+<thead>
+    <tr class="table-dark">
+      <th scope="col">Name</th>
+      <th scope="col">Patient ID</th>
+      <th scope="col">Doctor ID</th>
+      <th scope="col">Doctor Name</th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+<% @patients.each do |patient| %>
+<tbody>
+  <tr>
+    <td> <%= patient.name %> </td>
+    <td> <%= patient.id %> </td>
+    <td> <%= patient.doctor_id %> </td>
+
+    <td> <%= link_to "Show this patient", patient %> </td>
+  </tr>
+</tbody
+</table>
+  <% end %>
+</div>
+
+
+
+
+
+
