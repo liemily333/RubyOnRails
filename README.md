@@ -5,7 +5,7 @@
 
 <img width="1438" alt="Screen Shot 2022-07-06 at 9 23 24 AM" src="https://user-images.githubusercontent.com/64618285/177598075-e4ff0949-b496-46c9-a408-c907ace866dd.png">
 
-<img width="599" alt="Screen Shot 2022-07-06 at 9 26 01 AM" src="https://user-images.githubusercontent.com/64618285/177598451-cc440d02-b91b-4134-8a41-69e9929abbb0.png">
+<img width="560" alt="Screen Shot 2022-07-06 at 9 27 57 AM" src="https://user-images.githubusercontent.com/64618285/177599172-9122767d-30db-45b6-8598-cbe3576dfc15.png">
 
 <img width="474" alt="Screen Shot 2022-07-06 at 9 26 26 AM" src="https://user-images.githubusercontent.com/64618285/177598528-928cd8db-51d3-40dc-9aea-38d825ef6033.png">
 
