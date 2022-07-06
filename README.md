@@ -1,4 +1,5 @@
-# ScreenShots: 
+# To the Hiring Manager: I learned Ruby on Rails and Postgresql for this take home project. There are some errors that I have encountered that I could not fix(please refer to the home page) but I also have implemented other features I have worked with before. I believe that with the help of a mentor and some extra time I can finish this project to completion. Most of all I had fun working on this project and plan on adding moree complexity in the future.
+
 <img width="1436" alt="Screen Shot 2022-07-06 at 9 22 52 AM" src="https://user-images.githubusercontent.com/64618285/177598101-9b5ce0b3-0e33-425a-9098-e0265a394051.png">
 
 <img width="1436" alt="Screen Shot 2022-07-06 at 9 23 11 AM" src="https://user-images.githubusercontent.com/64618285/177598086-4c8b6ef9-fedb-4618-8777-d7d8c5bbc39b.png">
