@@ -1,10 +1,13 @@
-Overview:
-Homepage:
+# ScreenShots: 
 <img width="1436" alt="Screen Shot 2022-07-06 at 9 22 52 AM" src="https://user-images.githubusercontent.com/64618285/177598101-9b5ce0b3-0e33-425a-9098-e0265a394051.png">
-Doctors:
+
 <img width="1436" alt="Screen Shot 2022-07-06 at 9 23 11 AM" src="https://user-images.githubusercontent.com/64618285/177598086-4c8b6ef9-fedb-4618-8777-d7d8c5bbc39b.png">
-Patients: 
+
 <img width="1438" alt="Screen Shot 2022-07-06 at 9 23 24 AM" src="https://user-images.githubusercontent.com/64618285/177598075-e4ff0949-b496-46c9-a408-c907ace866dd.png">
+
+<img width="599" alt="Screen Shot 2022-07-06 at 9 26 01 AM" src="https://user-images.githubusercontent.com/64618285/177598451-cc440d02-b91b-4134-8a41-69e9929abbb0.png">
+
+<img width="474" alt="Screen Shot 2022-07-06 at 9 26 26 AM" src="https://user-images.githubusercontent.com/64618285/177598528-928cd8db-51d3-40dc-9aea-38d825ef6033.png">
 
 
 # Getting started
