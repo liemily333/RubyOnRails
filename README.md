@@ -1,4 +1,11 @@
 # Getting started
+<img width="1436" alt="Screen Shot 2022-07-06 at 9 22 52 AM" src="https://user-images.githubusercontent.com/64618285/177598101-9b5ce0b3-0e33-425a-9098-e0265a394051.png">
+
+<img width="1436" alt="Screen Shot 2022-07-06 at 9 23 11 AM" src="https://user-images.githubusercontent.com/64618285/177598086-4c8b6ef9-fedb-4618-8777-d7d8c5bbc39b.png">
+
+
+<img width="1438" alt="Screen Shot 2022-07-06 at 9 23 24 AM" src="https://user-images.githubusercontent.com/64618285/177598075-e4ff0949-b496-46c9-a408-c907ace866dd.png">
+
 
 To get the Rails server running locally:
 
