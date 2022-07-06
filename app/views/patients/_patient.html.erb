@@ -1,7 +1,10 @@
 <div id="<%= dom_id patient %>">
-  <p>
-    <strong>Name:</strong>
-    <%= patient.name %>
-  </p>
 
+  <div>
+  <%= form.label :name, style: "display: block" %>
+  <%= form.text_field :patient.name %>
+  <%= form.hidden_field :doctor_id, value: params[:id] %>
+ 
+
+</div>
 </div>

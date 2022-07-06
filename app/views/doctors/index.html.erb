@@ -1,7 +1,6 @@
 <p style="color: green"><%= notice %></p>
 
 <h1>Doctors</h1>
-<%= link_to "Add New Doctor", new_doctor_path %>
 <div id="doctors">
 <table class="table">
 <thead>
@@ -18,11 +17,16 @@
     <td> <%= doctor.name %> </td>
     <td> <%= doctor.id %> </td>
     <td> <%= link_to "Show this doctor", doctor %> </td>
-    <td> <a href= "http://localhost:3000/patients/new" >add new patient </a>  </td>
+    <td> <%= link_to "add new patient", new_patient_path(@doctor, :id => doctor.id)%> </td>
   </tr>
 </tbody
 </table>
-  
-  <% end %>
-</div>
 
+
+  <% end %>
+ 
+</div>
+<div>
+
+<%= link_to "Add New Doctor", new_doctor_path %>
+</div>

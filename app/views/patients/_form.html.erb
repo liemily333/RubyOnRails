@@ -11,19 +11,16 @@
     </div>
   <% end %>
 
+
+
   <div>
     <%= form.label :name, style: "display: block" %>
     <%= form.text_field :name %>
-    <%= form.label :doctor_id, style: "display: block" %>
-    <%= form.text_field :doctor_id %>
-  </div>
-  <div>
-  <% doctors_url do |thing| %>
-    <% f.hidden_field 'id][', :value => id %>
-  <% end %>
+    <%= form.hidden_field :doctor_id, value: params[:id] %>
+   
 
-  <%= @@id %>
   </div>
+
 
   <div>
     <%= form.submit %>
